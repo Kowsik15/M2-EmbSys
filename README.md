@@ -18,7 +18,7 @@
 | Project ⇨ 4_TestPlanAndOutput | README.md(High level and Low level Test plan) |
 | Project ⇨ 5_Report | Report.pdf |
 | Project ⇨ 6_ImagesAndVideos | All images used in repo |
-| Project ⇨ 7_Applications | Applications |
-| Project ⇨ 8_Output | __Output Images __ |
+| Project ⇨ 7_Others | simulation and heart beat sensor circuit |
+| Project ⇨ 8_Doxygen_Documentation | __doxygen __ |
 
 
