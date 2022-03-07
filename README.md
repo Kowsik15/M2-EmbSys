@@ -1,6 +1,6 @@
 # M2-EmbSys
 ---
-# __ECG__Alert__Heart__Monitoring__System
+# ECG__Alert__Heart__Monitoring__System
 
 ## Check inside Project forlder for report
 
