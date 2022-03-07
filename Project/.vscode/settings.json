@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "unity.h": "c",
+        "project.h": "c",
+        "unity_internals.h": "c",
+        "stddef.h": "c"
+    }
+}
